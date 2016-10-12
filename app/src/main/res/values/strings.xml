@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sinfora</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="pin">in.ac.gectcr.sinfora.pin</string>
+    <string name="login">in.ac.gectcr.sinfora.login</string>
+</resources>
